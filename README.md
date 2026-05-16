@@ -27,3 +27,9 @@ Katkıda bulunmak isteyenler standart bir pull request süreci üzerinden projey
 ## Lisans
 
 Bu projeye ait lisans bilgileri burada yer alacaktır.
+
+## Custom Tool Added
+
+I added a custom tool called `count_words`.
+
+This tool allows the AI agent to count the number of words in any given text input. It can be useful for quick text analysis and demonstrates tool-calling capability.
